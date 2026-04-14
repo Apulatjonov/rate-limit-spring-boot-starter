@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: RateLimit
+  data:
+    redis:
+      host: localhost
+      port: 6379
+
+rate-limit:
+  storage: redis
