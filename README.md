@@ -4,6 +4,10 @@
 
 A lightweight, configurable, production-ready **Spring Boot rate limiting starter** with support for:
 
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.apulatjonov/rate-limit-spring-boot-starter)](https://central.sonatype.com/artifact/io.github.apulatjonov/rate-limit-spring-boot-starter)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Java](https://img.shields.io/badge/Java-17%2B-orange.svg)](https://www.oracle.com/java/)
+
 * In-Memory storage
 * Redis distributed storage
 * Automatic backend selection
